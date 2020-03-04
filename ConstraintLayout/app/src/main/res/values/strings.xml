@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Spongebob Constraint Layout</string>
+    <string name="age">33Th</string>
+    <string name="interest">I love everyone</string>
+    <string name="name">Spongebob Squarepants</string>
+    <string name="sinopsys">Sinopsys</string>
+    <string name="description">SpongeBob is a childish and joyful sea sponge who lives in a pineapple with his pet snail Gary in the underwater city of Bikini Bottom.
+        He works as a fry cook at the Krusty Krab, a job which he is exceptionally skilled at and enjoys a lot.
+        He attends Mrs. Puffs Boating School, though he has yet to receive a drivers license due to his inability to drive a boatmobile properly.
+        SpongeBob is very good-natured and loves to hang out with his best friend Patrick.
+        His teacher is Mrs. Puff and his boss is Mr. Krabs. </string>
+    <string name="likecount">53K</string>
+    <string name="sharecount">30K</string>
+    <string name="viewcount">681K</string>
+    <string name="zonk">TICKET SOLD OUT</string>
+
+
+</resources>
